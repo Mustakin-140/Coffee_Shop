@@ -208,3 +208,62 @@ html ::-webkit-scrollbar{
     cursor: pointer;
 }
 /* top card ends */
+
+
+/*Menu starts*/
+.menu{
+    width: 100%;
+    background: #f7f5f2;
+    padding-top: 50px;
+}
+
+.heading3{
+    text-align: center;
+    font-size: 40px;
+    color: #b2744c;
+    font-weight: bold;
+    border-bottom: 2px solid #b2744c;
+}
+
+#container2{
+    margin-top: 20px;
+    
+}
+
+.menu .card{
+    background: white;
+    box-shadow: rgba(147, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 20px;
+    
+}
+
+.menu .card:hover{
+    transform: translateY(5px);
+    cursor: pointer;
+}
+
+.star i{
+    color: #b2744c;
+}
+
+.menu h3{
+    color: #050404;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.menu p{
+    font-size: 20px;
+    color: #b2744c;
+    padding-top:10px;
+    text-align: center;
+}
+
+.menu p span{
+    float: right;
+    cursor: pointer;
+}
+
+
+/*Menu ends*/
